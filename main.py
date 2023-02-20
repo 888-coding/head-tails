@@ -7,7 +7,7 @@ import random
 random_number = random.randint(0,1)
 
 print("Welcome to the Head os tail app")
-print("Here is autoprogrammed to response the valeu")
+print("Here is autoprogrammed to response the value")
 
 #Condition
 if random_number == 1 :
